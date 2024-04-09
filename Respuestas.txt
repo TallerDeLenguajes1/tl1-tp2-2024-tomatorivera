@@ -7,3 +7,7 @@ No se ve el archivo tp2_1_2.c porque fue creado en otra rama
 ## f) (segunda pregunta)
 
 Luego de crear el archivo Respuestas.txt y commitearlo, se lo ve en la GUI por encima de la rama Opcion_2
+
+## f) (Despues del merge)
+
+Luego de hacer el merge entre la rama Opcion_2 y main, me aparece el archivo tp2_1_2.c en la carpeta de la rama main y en la GUI de git puedo visualizar el commit de la rama Opcion_2 unido con el ultimo commit en la rama main
