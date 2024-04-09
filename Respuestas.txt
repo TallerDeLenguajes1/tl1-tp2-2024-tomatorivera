@@ -1,0 +1,5 @@
+# Punto 2
+
+## f) (primeras preguntas)
+
+No se ve el archivo tp2_1_2.c porque fue creado en otra rama
