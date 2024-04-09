@@ -3,3 +3,7 @@
 ## f) (primeras preguntas)
 
 No se ve el archivo tp2_1_2.c porque fue creado en otra rama
+
+## f) (segunda pregunta)
+
+Luego de crear el archivo Respuestas.txt y commitearlo, se lo ve en la GUI por encima de la rama Opcion_2
